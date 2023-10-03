@@ -1,0 +1,15 @@
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\ref\CleanArchMvc.Application.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb

@@ -355,3 +355,11 @@ D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArch
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
