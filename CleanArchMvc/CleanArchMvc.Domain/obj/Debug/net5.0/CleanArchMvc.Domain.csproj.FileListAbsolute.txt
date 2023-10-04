@@ -2,7 +2,6 @@ D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArch
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
-D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
