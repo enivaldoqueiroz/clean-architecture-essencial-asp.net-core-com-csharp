@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Domain.Tests", "CleanArchMvc.Domain.Tests\CleanArchMvc.Domain.Tests.csproj", "{B4BDCB7D-35B2-4855-9567-F377523EE577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{DFCEB5E5-347F-4A19-9872-F607B48BE1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFCEB5E5-347F-4A19-9872-F607B48BE1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFCEB5E5-347F-4A19-9872-F607B48BE1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BDCB7D-35B2-4855-9567-F377523EE577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BDCB7D-35B2-4855-9567-F377523EE577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BDCB7D-35B2-4855-9567-F377523EE577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BDCB7D-35B2-4855-9567-F377523EE577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
