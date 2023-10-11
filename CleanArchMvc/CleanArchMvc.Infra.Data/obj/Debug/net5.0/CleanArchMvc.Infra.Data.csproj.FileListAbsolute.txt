@@ -13,3 +13,6 @@ D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArch
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
