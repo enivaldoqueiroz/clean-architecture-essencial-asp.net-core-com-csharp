@@ -17,3 +17,6 @@ D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArch
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
+D:\C-CHARP DOTNET\clean-architecture-essencial-asp.net-core-com-csharp\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
