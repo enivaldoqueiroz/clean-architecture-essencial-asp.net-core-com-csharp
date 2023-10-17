@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3ZNmkKGcDyaKqX6RlekSjA6IlLrTkJn3a01Njy91zQMbGnLaV0R/ON+fdZWqCGO4NP8uIMmBx7ZaFJcybWEu4Q==",
+  "dgSpecHash": "FclV1jo2LJVCKC0Xm4aZ6KMF6lBXe/ONuX/C/MAis/bEg5lH8TzIEpyjG+vbDKxosPGLT9gpbVM29LRw8x9dVQ==",
   "success": true,
   "projectFilePath": "D:\\C-CHARP DOTNET\\clean-architecture-essencial-asp.net-core-com-csharp\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eniva\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\eniva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\eniva\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
