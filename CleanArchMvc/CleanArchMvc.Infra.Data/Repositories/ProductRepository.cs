@@ -16,7 +16,7 @@ namespace CleanArchMvc.Infra.Data.Repositories
             _productContext = context;
         }
 
-        public async Task<Product> Create(Product product)
+        public async Task<Product> CreateAsync(Product product)
         {
             _productContext.Add(product);
             await _productContext.SaveChangesAsync();
@@ -39,14 +39,14 @@ namespace CleanArchMvc.Infra.Data.Repositories
             return await _productContext.Products.ToListAsync();
         }
 
-        public async Task<Product> Remove(Product product)
+        public async Task<Product> RemoveAsync(Product product)
         {
             _productContext.Remove(product);
             await _productContext.SaveChangesAsync();
             return product;
         }
 
-        public async Task<Product> Update(Product product)
+        public async Task<Product> UpdateAsync(Product product)
         {
             _productContext.Update(product);
             await _productContext.SaveChangesAsync();
